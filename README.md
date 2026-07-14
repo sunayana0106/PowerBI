@@ -1,4 +1,3 @@
-# Workshops-and-Learnings
 # Power BI Reports and Projects Repository
 
 ## Description
